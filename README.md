@@ -1,4 +1,5 @@
-#  SN Crop Power BI Dashboard [chart_with_upwards_trend emoji]
+#  SN Crop Power BI Dashboard 
+![CN Crop Dashboard](https://github.com/Prakhyat-Srivastava/SN-Crop-Dashboard-PowerBI-Project/assets/72151469/792e1fdd-86e4-4abe-9496-1b17dbc2cfa4)
 
 This repository holds my first Power BI project - the SN Crop Dashboard!
 
