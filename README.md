@@ -9,7 +9,7 @@ The goal is to provide users with valuable information and analysis through clea
 
 # ️  Technologies Used
 
-Power BI [Power BI logo (you can find this online)]
+Power BI ![Microsoft-Power-BI-Symbol-700x394](https://github.com/Prakhyat-Srivastava/SN-Crop-Dashboard-PowerBI-Project/assets/72151469/72b309dc-977b-4455-b4cb-734c01ee962b)
 #  Getting Started
 
 Prerequisites:
