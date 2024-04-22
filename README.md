@@ -1,4 +1,5 @@
 #  SN Crop Power BI Dashboard 
+## https://app.powerbi.com/groups/me/reports/a8ca1c38-638b-4414-bdfd-678a8f21541d/ReportSection?experience=power-bi
 ![CN Crop Dashboard](https://github.com/Prakhyat-Srivastava/SN-Crop-Dashboard-PowerBI-Project/assets/72151469/792e1fdd-86e4-4abe-9496-1b17dbc2cfa4)
 
 This repository holds my first Power BI project - the SN Crop Dashboard!
